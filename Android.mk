@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := CustomWallpapers
+LOCAL_PACKAGE_NAME := PixelDustWallpapers
 
 include $(BUILD_PACKAGE)

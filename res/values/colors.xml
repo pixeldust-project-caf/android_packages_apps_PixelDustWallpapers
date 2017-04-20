@@ -16,4 +16,5 @@
 -->
 <resources>
     <color name="gallery_layout_background">#AA000000</color>
+    <color name="colorWhite">#ffffff</color>
 </resources>

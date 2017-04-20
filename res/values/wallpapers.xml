@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2013 The CyanogenMod Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -16,18 +13,68 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>eos_1</item>
-        <item>eos_2</item>
-        <item>eos_3</item>
-        <item>eos_4</item>
-        <item>eos_5</item>
+        <item>pd_01</item>
+        <item>pd_02</item>
+        <item>pd_03</item>
+        <item>pd_04</item>
+        <item>pd_05</item>
+        <item>pd_06</item>
+        <item>pd_07</item>
+        <item>pd_08</item>
+        <item>pd_09</item>
+        <item>pd_10</item>
+        <item>pd_11</item>
+        <item>pd_12</item>
+        <item>pd_13</item>
+        <item>pd_14</item>
+        <item>pd_15</item>
+        <item>pd_16</item>
+        <item>pd_17</item>
+        <item>pd_18</item>
+        <item>pd_19</item>
+        <item>pd_20</item>
+        <item>pd_21</item>
+        <item>pd_22</item>
+        <item>pd_23</item>
+        <item>pd_24</item>
+        <item>pd_25</item>
+        <item>pd_26</item>
+        <item>pd_27</item>
+        <item>pd_28</item>
+        <item>pd_29</item>
+        <item>pd_30</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Euphoria 1 - Dimitris</item>
-        <item>Euphoria 2 - Dimitris</item>
-        <item>Euphoria 3 - Dimitris</item>
-        <item>Euphoria 4 - Dimitris</item>
-        <item>Euphoria 5 - Dimitris</item>
+        <item>Pixel Dust - 01</item>
+        <item>Pixel Dust - 02</item>
+        <item>Pixel Dust - 03</item>
+        <item>Pixel Dust - 04</item>
+        <item>Pixel Dust - 05</item>
+        <item>Pixel Dust - 06</item>
+        <item>Pixel Dust - 07</item>
+        <item>Pixel Dust - 08</item>
+        <item>Pixel Dust - 09</item>
+        <item>Pixel Dust - 10</item>
+        <item>Pixel Dust - 11</item>
+        <item>Pixel Dust - 12</item>
+        <item>Pixel Dust - 13</item>
+        <item>Pixel Dust - 14</item>
+        <item>Pixel Dust - 15</item>
+        <item>Pixel Dust - 16</item>
+        <item>Pixel Dust - 17</item>
+        <item>Pixel Dust - 18</item>
+        <item>Pixel Dust - 19</item>
+        <item>Pixel Dust - 20</item>
+        <item>Pixel Dust - 21</item>
+        <item>Pixel Dust - 22</item>
+        <item>Pixel Dust - 23</item>
+        <item>Pixel Dust - 24</item>
+        <item>Pixel Dust - 25</item>
+        <item>Pixel Dust - 26</item>
+        <item>Pixel Dust - 27</item>
+        <item>Pixel Dust - 28</item>
+        <item>Pixel Dust - 29</item>
+        <item>Pixel Dust - 30</item>
     </string-array>
 </resources>
